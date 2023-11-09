@@ -6,11 +6,3 @@
 <li>Show with color</li>
 <li>Add Bitcoin</li>
 <li>Fix Bug</li>
-
-<h2>Developer link</h2>
-<a href="https://bugland.ir/user?email=Ali2004h.linux%40gmail.com" style="display:inline;">
-<img src="https://img.shields.io/badge/Bugland-Ali2004h-orange">
- </a>
-<a href="https://bugland.ir/user?email=alirezaf999.iran%40gmail.com" style="display:inline;">
-<img src="https://img.shields.io/badge/Bugland-Alireza Farghadani-orange">
- </a>
